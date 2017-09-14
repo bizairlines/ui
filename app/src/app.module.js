@@ -1,4 +1,4 @@
 angular
-    .module('biz.components', [
+    .module('biz.ui', [
         
     ]);

@@ -2,7 +2,7 @@
     'use strict';
 
     angular
-        .module('biz..components')
+        .module('biz.ui')
         .config(config);
 
     /* ngInject */
