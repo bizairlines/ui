@@ -20,24 +20,16 @@
   "homepage": "https://github.com/bizairlines/ui#readme",
   "dependencies": {
     "angular": "1.5.8",
-    "angular-input-masks": "^2.4.0",
-    "angular-local-storage": "^0.5.0",
-    "angular-messages": "^1.5.8",
-    "angular-moment-picker": "^0.7.0",
-    "angular-ui-mask": "^1.8.7",
-    "angular-ui-router": "^1.0.0-beta.2",
-    "angularjs-datetime-picker": "^0.1.16",
-    "bootstrap": "^4.0.0-alpha.4",
-    "d3": "^3.5.17",
-    "font-awesome": "^4.6.3",
-    "moment": "^2.15.1",
-    "moment-range": "^2.2.0",
-    "ng-file-upload": "^12.2.12",
-    "topojson": "^1.6.27"
+    "bootstrap": "^4.0.0-alpha.4"
   },
   "devDependencies": {
     "browser-sync": "^2.18.13",
+    "del": "^3.0.0",
+    "event-stream": "^3.3.4",
     "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-environments": "^0.1.2",
+    "gulp-rimraf": "^0.2.1",
     "gulp-sass": "^3.1.0"
   }
 }
